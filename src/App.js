@@ -9,7 +9,7 @@ function App() {
 
         <h2 className="font-syne absolute top-5 left-5 uppercase text-xl text-white z-50">Belfast, NI</h2>
 
-        <div className="after:content-[''] absolute top-16 left-0 bg-white w-1 h-full"></div>
+        {/* <div className="after:content-[''] absolute top-16 left-0 bg-white w-1 h-full"></div> */}
 
         <a href="mailto:jessicaarodgerss@gmail.com" className="font-syne z-50 absolute bottom-5 right-5 uppercase text-xl text-white">Request a CV</a>
 
